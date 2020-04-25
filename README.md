@@ -1,2 +1,2 @@
 # BibliotecaBeacon
-Pagina principal para la administración de la información
+Aplicación web para la administración de la información
