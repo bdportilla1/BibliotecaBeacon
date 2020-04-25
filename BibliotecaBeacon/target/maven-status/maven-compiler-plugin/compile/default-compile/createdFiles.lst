@@ -1,0 +1,5 @@
+appWeb\main.class
+domain\entities\Notificacion.class
+domain\entities\Lugar.class
+domain\entities\Usuarios.class
+domain\entities\Beacon.class
